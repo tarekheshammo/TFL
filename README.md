@@ -2,7 +2,7 @@ About The Project
 This project is POC for customer service module which help dealing with customers in different centres.
 
 Built with
-Dynamics365 CE , PowerApps
+Dynamics365 CE , PowerApps.
 
 URLs for Access
 Environment: https://cstrial.crm4.dynamics.com/main.aspx?forceUCI=1&pagetype=apps
