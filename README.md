@@ -1,15 +1,15 @@
-**About The Project**
-This project is POC for customer service module which help dealing with customers in different centres.
+**About The Project**<br />
+This project is POC for customer service module which help dealing with customers in different centres.<br />
 
-**Built with**
-Dynamics365 CE , PowerApps.
+**Built with**<br />
+Dynamics365 CE , PowerApps.<br />
 
-**URLs for Access**
-Environment:<br /> https://cstrial.crm4.dynamics.com/main.aspx?forceUCI=1&pagetype=apps
-PowerApps:<br /> make.powerapps.com/environments
-Admin Portal:<br /> https://admin.powerplatform.microsoft.com/environments
+**URLs for Access**<br />
+Environment:<br /> https://cstrial.crm4.dynamics.com/main.aspx?forceUCI=1&pagetype=apps <br />
+PowerApps:<br /> make.powerapps.com/environments <br />
+Admin Portal:<br /> https://admin.powerplatform.microsoft.com/environments <br />
 
-**Credentials:**
+**Credentials:**<br />
 
 | Role        | Username           | Password  |
 | ------------- |:-------------:| -----:|
@@ -21,7 +21,7 @@ Admin Portal:<br /> https://admin.powerplatform.microsoft.com/environments
 |Basic user ContactCentres3 |     BUCC3@TFL455.onmicrosoft.com     |P@ssW0rdCC3|
 |Manager ContactCentres3    |    MCC3@TFL455.onmicrosoft.com       |P@ssW0rdCC3|
 
-**Notes**
+**Notes**<br />
 1. I have used power automate flows instead of workflows or plugins as it's recommended from Microsoft
 2. I'm following latest technologies i.e. Custom page, Power Automate flows.
 
