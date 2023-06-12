@@ -23,7 +23,7 @@ Admin Portal:https://admin.powerplatform.microsoft.com/environments <br />
 
 
 **Test Cases**<br />
-Please follwo test cases mentioned in Technical Design Document I have attached.
+Please follow test cases mentioned in Technical Design Document I have attached.
 
 **Notes**<br />
 1. I have used power automate flows instead of workflows or plugins as it's recommended from Microsoft
