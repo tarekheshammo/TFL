@@ -21,6 +21,10 @@ Admin Portal:https://admin.powerplatform.microsoft.com/environments <br />
 |Basic user ContactCentres3 |     BUCC3@TFL455.onmicrosoft.com     |P@ssW0rdCC3|
 |Manager ContactCentres3    |    MCC3@TFL455.onmicrosoft.com       |P@ssW0rdCC3|
 
+
+**Test Cases**<br />
+Please follwo test cases mentioned in Technical Design Document I have attached.
+
 **Notes**<br />
 1. I have used power automate flows instead of workflows or plugins as it's recommended from Microsoft
 2. I'm following latest technologies i.e. Custom page, Power Automate flows.
