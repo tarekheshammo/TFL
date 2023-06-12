@@ -6,7 +6,7 @@ Dynamics365 CE , PowerApps.<br />
 
 **URLs for Access**<br />
 Environment:https://cstrial.crm4.dynamics.com/main.aspx?forceUCI=1&pagetype=apps <br />
-PowerApps: make.powerapps.com/environments <br />
+PowerApps: https://make.powerapps.com/environments/ <br />
 Admin Portal:https://admin.powerplatform.microsoft.com/environments <br />
 
 **Credentials:**<br />
