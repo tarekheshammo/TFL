@@ -5,9 +5,9 @@ This project is POC for customer service module which help dealing with customer
 Dynamics365 CE , PowerApps.
 
 **URLs for Access**
-Environment:__ https://cstrial.crm4.dynamics.com/main.aspx?forceUCI=1&pagetype=apps
-PowerApps:__ make.powerapps.com/environments
-Admin Portal:__ https://admin.powerplatform.microsoft.com/environments
+Environment:<br /> https://cstrial.crm4.dynamics.com/main.aspx?forceUCI=1&pagetype=apps
+PowerApps:<br /> make.powerapps.com/environments
+Admin Portal:<br /> https://admin.powerplatform.microsoft.com/environments
 
 **Credentials:**
 
