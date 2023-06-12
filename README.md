@@ -10,6 +10,14 @@ PowerApps:make.powerapps.com/environments
 Admin Portal: https://admin.powerplatform.microsoft.com/environments
 
 **Credentials:**
+
+| Role        | Username           | Password  |
+| ------------- |:-------------:| -----:|
+| Admin      | TarekMostafa@TFL455.onmicrosoft.com | TFLP@ssW0rd |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 Role                           | Username                                        |   Password 
 | ---------------------------- |:-----------------------------------------------:| ------:|
 Admin                          TarekMostafa@TFL455.onmicrosoft.com                TFLP@ssW0rd
