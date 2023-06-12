@@ -14,22 +14,12 @@ Admin Portal: https://admin.powerplatform.microsoft.com/environments
 | Role        | Username           | Password  |
 | ------------- |:-------------:| -----:|
 | Admin      | TarekMostafa@TFL455.onmicrosoft.com | TFLP@ssW0rd |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
-Role                           | Username                                        |   Password 
-| ---------------------------- |:-----------------------------------------------:| ------:|
-Admin                          TarekMostafa@TFL455.onmicrosoft.com                TFLP@ssW0rd
-
-Basic user ContactCentres1 |    BUCC1@TFL455.onmicrosoft.com      |                 P@ssW0rddCC1
-Manager ContactCentres1    |    MCC1@TFL455.onmicrosoft.com       |                P@ssW0rdCC1
-
-Basic User ContacCentres2  |    BUCC2@TFL455.onmicrosoft.com      |                 P@ssW0rdCC2
-Manager ContactCentres2    |    MCC2@TFL455.onmicrosoft.com       |                 P@ssW0rdCC2
-
-Basic user ContactCentres3 |     BUCC3@TFL455.onmicrosoft.com     |                 P@ssW0rdCC3
-Manager ContactCentres3    |    MCC3@TFL455.onmicrosoft.com       |                 P@ssW0rdCC3
+|Basic user ContactCentres1 |    BUCC1@TFL455.onmicrosoft.com      |P@ssW0rddCC1|
+|Manager ContactCentres1    |    MCC1@TFL455.onmicrosoft.com       |P@ssW0rdCC1|
+|Basic User ContacCentres2  |    BUCC2@TFL455.onmicrosoft.com      |P@ssW0rdCC2|
+|Manager ContactCentres2    |    MCC2@TFL455.onmicrosoft.com       |P@ssW0rdCC2|
+|Basic user ContactCentres3 |     BUCC3@TFL455.onmicrosoft.com     |P@ssW0rdCC3|
+|Manager ContactCentres3    |    MCC3@TFL455.onmicrosoft.com       |P@ssW0rdCC3|
 
 **Notes**
 1. I have used power automate flows instead of workflows or plugins as it's recommended from Microsoft
