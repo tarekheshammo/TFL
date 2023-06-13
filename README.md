@@ -26,6 +26,9 @@ Admin Portal:https://admin.powerplatform.microsoft.com/environments <br />
 2. Timeline for cases are appeared on Follow-Up entity.
 3. After Agent Create the case and move to second stage 'Research' he/she can add commet before assign case to Manager. Agent need to use Assign Button on Ribbon to assign case to Manager.
 
+**Recommendations**
+I recommended to use Edge instead of chrome
+
 **Test Cases**<br />
 Please follow test cases mentioned in Technical Design Document I have attached.
 
