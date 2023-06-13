@@ -18,7 +18,7 @@ Admin Portal:https://admin.powerplatform.microsoft.com/environments <br />
 |Manager ContactCentres1    |    MCC1@TFL455.onmicrosoft.com       |P@ssW0rdCC1|
 |Basic User ContacCentres2  |    BUCC2@TFL455.onmicrosoft.com      |P@ssW0rddCC2|
 |Manager ContactCentres2    |    MCC2@TFL455.onmicrosoft.com       |P@ssW0rdCC2|
-|Basic user ContactCentres3 |     BUCC3@TFL455.onmicrosoft.com     |P@ssW0rdCC3|
+|Basic user ContactCentres3 |     BUCC3@TFL455.onmicrosoft.com     |P@ssW0rddCC3|
 |Manager ContactCentres3    |    MCC3@TFL455.onmicrosoft.com       |P@ssW0rdCC3|
 
 **Assumptions**<br />
