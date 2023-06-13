@@ -21,6 +21,9 @@ Admin Portal:https://admin.powerplatform.microsoft.com/environments <br />
 |Basic user ContactCentres3 |     BUCC3@TFL455.onmicrosoft.com     |P@ssW0rdCC3|
 |Manager ContactCentres3    |    MCC3@TFL455.onmicrosoft.com       |P@ssW0rdCC3|
 
+**Assumptions**<br />
+1. Documents will be uploaded on Timeline for Cases not Contact because each document is related to specefic case and contact maybe has many cases
+2. Timeline for cases are appeared on Follow-Up entity
 
 **Test Cases**<br />
 Please follow test cases mentioned in Technical Design Document I have attached.
