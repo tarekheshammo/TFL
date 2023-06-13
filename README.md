@@ -22,8 +22,9 @@ Admin Portal:https://admin.powerplatform.microsoft.com/environments <br />
 |Manager ContactCentres3    |    MCC3@TFL455.onmicrosoft.com       |P@ssW0rdCC3|
 
 **Assumptions**<br />
-1. Documents will be uploaded on Timeline for Cases not Contact because each document is related to specefic case and contact maybe has many cases
-2. Timeline for cases are appeared on Follow-Up entity
+1. Documents will be uploaded on Timeline for Cases not Contact because each document is related to specefic case and contact maybe has many cases.
+2. Timeline for cases are appeared on Follow-Up entity.
+3. After Agent Create the case and move to second stage 'Research' he/she can add commet before assign case to Manager. Agent need to use Assign Button on Ribbon to assign case to Manager.
 
 **Test Cases**<br />
 Please follow test cases mentioned in Technical Design Document I have attached.
